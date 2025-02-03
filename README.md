@@ -1,42 +1,191 @@
-<h1 align="center">Hi 👋, I'm V Chaitanya Chowdari</h1>
+<p align="center">
+  <img src="<h1 align="center">🚀 V Chaitanya Chowdari</h1>
 <h3 align="center">Engineering Student | AI Enthusiast | Innovator | AI Generalist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vchaitanyachodari&label=Profile%20views&color=0e75b6&style=flat" alt="ajayasnani" /> </p>
-
-- 📫 How to reach me **vchaitanyachowdari@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/vchaitanyachai?s=11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayasnani9413" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-dhanani-5693b6257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhay-dhanani-5693b6257" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_ajay.4x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_ajay.4x/" height="30" width="40" /></a>
-<a href="https://discord.com/vchaitanyachowdari_92139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vchaitanyachowdari” height="30" width="40" /></a>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="600" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+---
+
+## 🌟 About Me
+Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davangere, Karnataka, India**.  
+
+🔹 **Engineering & AI Student** at **IIT Indore** & **Babuji Institute of Engineering and Technology**  
+🔹 Passionate about **AI-driven technologies, DeFi, and Blockchain**  
+🔹 Building a **voice-activated AI agent for DeFi platforms**  
+🔹 Love to create **interactive and accessible AI solutions**  
+🔹 A **blogger, storyteller, and content creator**  
+
+📩 **Reach me at:** vchaitanyachowdari@gmail.com  
+
+📄 **Know about my experiences** [https://drive.google.com/file/d/1uzJsvNE01d6zpOrHzfwymTSywD9mQhJg/view?usp=sharing]((https://drive.google.com/file/d/1uzJsvNE01d6zpOrHzfwymTSywD9mQhJg/view?usp=sharing)
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/v-chaitanya-chowdari-bb3733202">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/vchaitanyachai?s=11">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vchaitanyachowdari?utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@vchaitanyachowdari3106?si=0V9wofOxkJ2d3iy_">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://join.skype.com/invite/rhdDvD257shN">
+    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" />
+  </a>
+  <a href="https://github.com/vchaitanyachowdari">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vchaitanyachowdari&show_icons=true&locale=en&layout=compact" alt="ajayasnani" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vchaitanyachowdari&show_icons=true&locale=en" alt="ajayasnani" /></p>
+## 🏆 Key Skills  
+💡 **Fundraising**  
+📈 **Digital Marketing**  
+📊 **Project Management**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vchaitanyachowdari&" alt="ajayasnani" /></p>
+---
+
+## 🎓 Education
+📍 **IIT Indore** – AI and Data Science (2024 - 2025)  
+📍 **Babuji Institute of Engineering and Technology** – BE in Computer Science (2024 - 2029)  
+
+---
+
+## 🏅 Certifications & Workshops
+- 🏆 **Generative AI Mastermind**  
+- 🏆 **ChatGPT 101**  
+- 🏆 **Generative AI for Engineers**  
+- 📜 **Content Marketing Certified**  
+- 🏅 **IBM TechXchange Dev Day: Virtual Agents**  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,mysql,sqlite,redux,express,git,tailwind,bootstrap,figma,postman,php" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vchaitanyachowdari&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vchaitanyachowdari&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vchaitanyachowdari&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🎬 Fun Fact About Me
+🎥 **I once edited an entire video just to add a pun to the title—because, hey, why not?**  
+🍛 **I'm on a lifelong quest to discover the perfect biryani!**  
+
+---
+
+🔥 **"Innovate. Create. Lead."** 🚀  
+💡 Let's connect and build something amazing!  
+
+</p>
+
+---
+
+## 🌟 About Me
+Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davangere, Karnataka, India**.  
+
+🔹 **Engineering & AI Student** at **IIT Indore** & **Babuji Institute of Engineering and Technology**  
+🔹 Passionate about **AI-driven technologies, DeFi, and Blockchain**  
+🔹 Building a **voice-activated AI agent for DeFi platforms**  
+🔹 Love to create **interactive and accessible AI solutions**  
+🔹 A **blogger, storyteller, and content creator**  
+
+📩 **Reach me at:** vchaitanyachowdari@gmail.com  
+
+---
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/v-chaitanya-chowdari-bb3733202">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/vchaitanyachai?s=11">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vchaitanyachowdari?utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@vchaitanyachowdari3106?si=0V9wofOxkJ2d3iy_">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://join.skype.com/invite/rhdDvD257shN">
+    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=skype&logoColor=white" />
+  </a>
+  <a href="https://github.com/vchaitanyachowdari">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 Key Skills  
+💡 **Fundraising**  
+📈 **Digital Marketing**  
+📊 **Project Management**  
+
+---
+
+## 🎓 Education
+📍 **IIT Indore** – AI and Data Science (2024 - 2025)  
+📍 **Babuji Institute of Engineering and Technology** – BE in Computer Science (2024 - 2029)  
+
+---
+
+## 🏅 Certifications & Workshops
+- 🏆 **Generative AI Mastermind**  
+- 🏆 **ChatGPT 101**  
+- 🏆 **Generative AI for Engineers**  
+- 📜 **Content Marketing Certified**  
+- 🏅 **IBM TechXchange Dev Day: Virtual Agents**  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,mysql,sqlite,redux,express,git,tailwind,bootstrap,figma,postman,php" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vchaitanyachowdari&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vchaitanyachowdari&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vchaitanyachowdari&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🎬 Fun Fact About Me
+🎥 **I once edited an entire video just to add a pun to the title—because, hey, why not?**  
+🍛 **I'm on a lifelong quest to discover the perfect biryani!**  
+
+---
+
+🔥 **"Innovate. Create. Lead."** 🚀  
+💡 Let's connect and build something amazing!  
+
+---
