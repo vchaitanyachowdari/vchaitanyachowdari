@@ -74,18 +74,6 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vchaitanyachowdari&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vchaitanyachowdari&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vchaitanyachowdari&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
 ## 🎬 Fun Fact About Me
 🎥 **I once edited an entire video just to add a pun to the title—because, hey, why not?**  
 🍛 **I'm on a lifelong quest to discover the perfect biryani!**  
