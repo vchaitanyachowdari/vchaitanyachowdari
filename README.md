@@ -15,7 +15,7 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
 
 📩 **Reach me at:** vchaitanyachowdari@gmail.com  
 
-👨‍💻 All of my projects are available at [https://vchaitanyachowdari.com/#](https://vchaitanyachowdari.wordpress.com/#)
+👨‍💻 All of my projects are available at [https://vchaitanyachowdari.com](https://vchaitanyachowdari.wordpress.com/#)
 
 📄 **Know about my experiences** [https://drive.google.com/file/d/1uzJsvNE01d6zpOrHzfwymTSywD9mQhJg/view?usp=sharing]((https://drive.google.com/file/d/1uzJsvNE01d6zpOrHzfwymTSywD9mQhJg/view?usp=sharing)
 
