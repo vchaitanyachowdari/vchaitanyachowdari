@@ -92,15 +92,6 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vchaitanyachowdari&layout=compact&theme=radical" width="48%" />
 </p>
 
----
-
-## 🎬 Fun Fact About Me
-🎥 **I once edited an entire video just to add a pun to the title—because, hey, why not?**  
-🍛 **I'm on a lifelong quest to discover the perfect biryani!**  
-
----
-
-🔥 **"Innovate. Create. Lead."** 🚀  
-💡 Let's connect and build something amazing!  
-
----
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vchaitanyachowdari&&style=flat-square" align="center" />
+</div>  
