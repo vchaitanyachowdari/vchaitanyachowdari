@@ -77,7 +77,7 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,mysql,sqlite,redux,express,git,tailwind,bootstrap,figma,postman,php" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,mysql,express,git,bootstrap,figma,postman,php,wordpress,vercel,netlify,docker,windows" />
 </p>
 
 ---
