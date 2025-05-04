@@ -1,5 +1,13 @@
-<p align="center">
-  <img src="<h1 align="center">🚀 V Chaitanya Chowdari</h1>
+<a href="https://www.chowdari.in/"><img src="./herobg.png" align="center" style="width: 100%" alt="V Chaitanya Chowari" /></a>
+
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
+
+<div align="center">
+<img src="./GradientLine.gif" align="center" style="width: 100%"/>
+</div>
+
+
 <h3 align="center">Engineering Student | AI Enthusiast | Innovator | AI Generalist</h3>
 
 ---
