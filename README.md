@@ -19,9 +19,9 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
 
 📩 **Reach me at:** vchaitanyachowdari@gmail.com  
 
-👨‍💻 All of my projects are available at [https://vchaitanyachowdari.com](https://vchaitanyachowdari.wordpress.com/#)
+👨‍💻 All of my projects are available at [https://vchaitanyachowdari.com](https://chowdari.in/)
 
-📄 **Know about my experiences** [https://drive.google.com/file/d/1uzJsvNE01d6zpOrHzfwymTSywD9mQhJg/view?usp=sharing]((https://drive.google.com/file/d/1uzJsvNE01d6zpOrHzfwymTSywD9mQhJg/view?usp=sharing)
+📄 **Know about my experiences** [Resume](https://resume.chowdari.in/)
 
 ---
 
@@ -33,7 +33,7 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
   <a href="https://x.com/vchaitanyachai?s=11">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/vchaitanyachowdari?utm_source=qr">
+  <a href="https://www.instagram.com/vchaitanyachowdari21?utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@vchaitanyachowdari3106?si=0V9wofOxkJ2d3iy_">
