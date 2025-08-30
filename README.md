@@ -46,21 +46,7 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🏆 Key Skills  
-💡 **Fundraising**  
-📈 **Digital Marketing**  
-📊 **Project Management**  
-
----
-
-## 🎓 Education
-📍 **IIT Indore** – AI and Data Science (2024 - 2025)  
-📍 **Babuji Institute of Engineering and Technology** – BE in Computer Science (2024 - 2029)  
-
----
+ 
 
 ## 🏅 Certifications & Workshops
 - 🏆 **Generative AI Mastermind**  
