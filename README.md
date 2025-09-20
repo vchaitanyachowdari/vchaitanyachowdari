@@ -11,13 +11,13 @@
 ## 🌟 About Me
 Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davangere, Karnataka, India**.  
 
-🔹 **Engineering & AI Student** at **IIT Indore** & **Babuji Institute of Engineering and Technology**  
-🔹 Passionate about **AI-driven technologies, DeFi, and Blockchain**  
-🔹 Building a **voice-activated AI agent for DeFi platforms**  
-🔹 Love to create **interactive and accessible AI solutions**  
-🔹 A **blogger, storyteller, and content creator**  
+🔹 Building my own Startup **VC AI Creator, VC AI Marketing, VC AI Production Studio** from the Start to the lifetime.
+🔹 Joined a Startup **Robotronix and Scalability Technology** as a Co-Founder of Lead - AI/Full Stack Development.
+🔹 **Engineering & AI Student** at **IIT Indore** & **Babuji Institute of Engineering and Technology**.
+🔹 Love to create **interactive and accessible AI solutions**. 
+🔹 A **blogger, storyteller, and content creator**.
 
-📩 **Reach me at:** vchaitanyachowdari@gmail.com  
+📩 **Reach me at:** [vchaitanya@chowdari.in](mailto:vchaitanya@chowdari.in)
 
 👨‍💻 All of my projects are available at [https://vchaitanyachowdari.com](https://chowdari.in/)
 
@@ -27,13 +27,13 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
 
 ## 🌍 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/v-chaitanya-chowdari-bb3733202">
+  <a href="https://www.linkedin.com/in/vchaitanyachowdari">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/vchaitanyachai?s=11">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/vchaitanyachowdari21?utm_source=qr">
+  <a href="https://www.instagram.com/vchaitanyachowdari21">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@vchaitanyachowdari3106?si=0V9wofOxkJ2d3iy_">
@@ -46,14 +46,6 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
- 
-
-## 🏅 Certifications & Workshops
-- 🏆 **Generative AI Mastermind**  
-- 🏆 **ChatGPT 101**  
-- 🏆 **Generative AI for Engineers**  
-- 📜 **Content Marketing Certified**  
-- 🏅 **IBM TechXchange Dev Day: Virtual Agents**  
 
 ---
 
