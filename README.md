@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
 
 
-<h3 align="center">Engineering Student | AI Enthusiast | Innovator | AI Generalist</h3>
+<h3 align="center">Founder & CEO | AI Enthusiast | Researcher | AI Generalist</h3>
 
 ---
 
@@ -18,9 +18,7 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
 🔹 A **blogger, storyteller, and content creator**.
 
 📩 **Reach me at:** [vchaitanya@chowdari.in](mailto:vchaitanya@chowdari.in)
-
-👨‍💻 All of my projects are available at [https://vchaitanyachowdari.com](https://chowdari.in/)
-
+👨‍💻 All of my projects are available at [https://chowdari.in/](https://chowdari.in/)
 📄 **Know about my experiences** [Resume](https://resume.chowdari.in/)
 
 ---
