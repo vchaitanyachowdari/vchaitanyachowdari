@@ -18,7 +18,9 @@ Hey there! I'm **V. Chaitanya Chowdari**, a budding tech enthusiast from **Davan
 🔹 A **blogger, storyteller, and content creator**.
 
 📩 **Reach me at:** [vchaitanya@chowdari.in](mailto:vchaitanya@chowdari.in)
+
 👨‍💻 All of my projects are available at [https://chowdari.in/](https://chowdari.in/)
+
 📄 **Know about my experiences** [Resume](https://resume.chowdari.in/)
 
 ---
